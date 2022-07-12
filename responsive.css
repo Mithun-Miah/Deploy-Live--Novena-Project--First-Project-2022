@@ -1,0 +1,509 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* navbar reponsive start */
+    #navbarSupportedContent li{
+        text-align: center;
+    }
+    .navbar-brand img{
+        width: 200px;
+        padding-left: 70px;
+    }
+    /* navbar reponsive end */
+
+    /* hero section reponsive start */
+    .heroText{
+        padding-top: 50px;
+    }
+    .para1{
+        font-size: 14px;
+    }
+    .heading1{
+        font-size: 2rem;
+    }
+    .para2{
+        font-size: 14px;
+    }
+    .btn1{
+        font-size: 14px;
+        padding: 6px 14px;
+    }
+    /* hero section reponsive end */
+
+    /* card section reponsive start */
+    .fa-user-nurse, .fa-clock, .fa-headphones-simple{
+        font-size: 30px;
+    }
+    .card-body span{
+        font-size: 15px;
+    }
+    .card-body h5{
+        font-size: 1rem;
+    }
+    .card-body p{
+        line-height: 1.7;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .card-body a{
+        padding: 6px 15px;
+        border-radius: 20px;
+        font-size: 13px;
+    }
+    /* card section reponsive end */
+
+    /*carousel section start*/
+    .caroHeading{
+        font-size: 1.8rem;
+    }
+    /*carousel section end*/
+
+    .clear{
+        height: 200px;
+    }
+    /* service section start */
+    .serviceText h1{
+        font-size: 1.8rem;
+    }
+    .serviceText p{
+        font-size: 14px;
+    }
+    .serviceText button{
+        width: 70%;
+        font-size: 1rem;
+    }
+    .serviceText button i{
+        margin-left: 15px;
+    }
+    /* service section end */
+    /* number counter section start */
+    #counter-sec{
+        margin-top: 4rem;
+    }
+    /* number counter section end */
+
+    /* award winning section start */
+    .awardCard{
+        display: flex;
+        justify-content: center;
+    }
+    .awardText{
+        padding-top: 4rem;
+    }
+    #awCard{
+        margin-top: 10px;
+    }
+    /* award winning section end */
+
+    /*book appoinment section start*/
+    .flexDivChild{
+        bottom: 50px;
+        left: 70px;
+    }
+    .baH1{
+        font-size: 2rem;
+    }
+    .baPara1{
+        font-size: 15px;
+    }
+    .fa-phone-volume{
+        font-size: 1.2rem;
+    }
+    .flexDivChild span{
+        font-size: 1.4rem;
+    }
+    .flexDivChild{
+        width: 250px !important;
+    }
+    .btnAppoinment{
+        font-size: 15px;
+        width: 60%;
+    }
+    /*book appoinment section end*/
+
+    /*reviews section start*/
+    .review-content{
+        width: 340px !important;
+    }
+    .review-content p:last-child{
+        font-size: 14px;
+    }
+    .k-content h4{
+        font-size: 1.3rem;
+    }
+    .k-content p{
+        font-size: 14px;
+    }
+    .p-content h4{
+        font-size: 1.3rem;
+    }
+    .p-content p{
+        font-size: 14px;
+    }
+    /*reviews section end*/
+    /* partner support section start */
+    .psPara1{
+        padding-left: 100px;
+        padding-right: 100px;
+        font-size: 15px;
+    }
+    .brandLogos img{
+        width: 100px;
+    }
+    /* partner support section end */
+
+    /*footer section start*/
+    .footerLogo{
+        width: 180px;
+    }
+    .footPara1{
+        font-size: 15px;
+    }
+    .socialIcons i{
+        font-size: 17px;
+    }
+    .footH1{
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+    .footDeptDiv p{
+        font-size: 14px;
+    }
+    .footsuppDiv p{
+        font-size: 14px;
+    }
+    .footGinTouDiv h4{
+        font-size: 1.2rem;
+    }
+    .footGinTouDiv p{
+        font-size: 14px;
+    }
+    .footEndLeft p{
+        font-size: 15px;
+    }
+    /*footer section end*/
+}
+
+
+@media (min-width: 299.98px) and (max-width: 767.98px) {
+    /* header section top bar start */
+    .topLeft{
+        text-align: center !important;
+    }
+    .topRight{
+        text-align: center !important;
+    }
+    /* header section top bar end */
+    /* navbar reponsive start */
+    #navbarSupportedContent li{
+        text-align: center;
+    }
+    .navbar-brand img{
+        width: 220px;
+        padding-left: 100px;
+    }
+    /* navbar reponsive end */
+    /* hero section reponsive start */
+    .heroText{
+        padding-top: 30px;
+    }
+    .para1{
+        font-size: 14px;
+    }
+    .heading1{
+        font-size: 1.3rem;
+    }
+    .para2{
+        font-size: 14px;
+        line-height: 1.8;
+        width: 60%;
+    }
+    .btn1{
+        font-size: 13px;
+        padding: 5px 12px;
+    }
+    /* hero section reponsive end */
+    /* card section reponsive start */
+    .card{
+        margin-bottom: 10px;
+    }
+    .fa-user-nurse, .fa-clock, .fa-headphones-simple{
+        font-size: 25px;
+    }
+    .card-body span{
+        font-size: 13px;
+    }
+    .card-body h5{
+        font-size: .975rem;
+    }
+    .card-body p{
+        line-height: 1.7;
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+    .card-body a{
+        padding: 5px 14px;
+        border-radius: 20px;
+        font-size: 12px;
+    }
+    /* card section reponsive end */
+    .clear{
+        height: 800px;
+    }
+
+    /*carousel section start*/
+    .caroHeading{
+        font-size: 1.6rem;
+    }
+    /*carousel section end*/
+
+    /* service section start */
+    .serviceText h1{
+        font-size: 1.6rem;
+        text-align: center;
+    }
+    .serviceText p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .serviceText button{
+        width: 40%;
+        font-size: 1rem;
+        display: block;
+        margin: 0px auto;
+    }
+    .serviceText button i{
+        margin-left: 14px;
+    }
+    /* service section end */
+    /* number counter section start */
+    .opaciti h1{
+        font-size: 1.5rem;
+    }
+    .opaciti p{
+        font-size: 14px;
+    }
+    /* number counter section end */
+    /* award winning section start */
+    .awHeading1{
+        font-size: 1.6rem;
+    }
+    .awPara1{
+        padding-left: 60px;
+        padding-right: 60px;
+        font-size: 14px;
+    }
+    #awCard{
+        margin-top: 10px;
+        width: 100% !important;
+    }
+    /* award winning section end */
+    /*book appoinment section start*/
+    .flexDiv img{
+        width: 50% !important;
+    }
+    .baH1{
+        font-size: 1.6rem;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .baPara1{
+        font-size: 15px;
+        text-align: center;
+    }
+    .fa-phone-volume{
+        font-size: 1rem;
+    }
+    .flexDivChild span{
+        font-size: 1.2rem;
+    }
+    .flexDivChild{
+        width: 180px !important;
+        height: 60px !important;
+        left: 110px !important;
+    }
+    #dept-dropdown{
+        width: 100%;
+    }
+    #doctor-dropdown{
+        width: 100%;
+    }
+    form input{
+        width: 100%;
+    }
+    form textarea{
+        width: 100%;
+    }
+    .btnAppoinment{
+        font-size: 15px;
+        width: 100%;
+    }
+    /*book appoinment section end*/
+    /*reviews section start*/
+    .crH1{
+        font-size: 1.6rem;
+    }
+    .crP1{
+        font-size: 14px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .review-content{
+        width: 100% !important;
+    }
+    .review-content p:last-child{
+        font-size: 14px;
+    }
+    .k-content h4{
+        font-size: 1.2rem;
+    }
+    .k-content p{
+        font-size: 14px;
+    }
+    .p-content h4{
+        font-size: 1.2rem;
+    }
+    .p-content p{
+        font-size: 14px;
+    }
+    /*reviews section end*/
+    /* partner support section start */
+    .brandLogos div{
+        width: 33%;
+        text-align: center;
+        padding: 10px;
+    }
+    .psH1{
+        font-size: 1.6rem;
+    }
+    .psPara1{
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 14px;
+    }
+    .brandLogos img{
+        width: 70px;
+    }
+    /* partner support section end */
+    /*footer section start*/
+    footer{
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+    .footLogoMainDiv{
+        margin-bottom: 20px;
+    }
+    .footerLogoDiv{
+        text-align: center;
+    }
+    .footerLogo{
+        width: 140px;
+    }
+    .footPara1{
+        font-size: 15px;
+        text-align: center;
+    }
+    .socialIcons{
+        text-align: center;
+    }
+    .socialIcons i{
+        font-size: 15px;
+    }
+    .footDeptDiv{
+        margin-bottom: 20px;
+    }
+    .line5{
+        border: 2px solid #E22D5B;
+        width: 30px;
+        margin: 0px auto;
+    }
+    .footH1{
+        font-size: 1rem;
+        font-weight: bold;
+        text-align: center;
+    }
+    .footDeptDiv p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .footsuppDiv{
+        margin-bottom: 20px;
+    }
+    .footsuppDiv p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .footGinTouDiv h4{
+        font-size: 1rem;
+        text-align: center;
+    }
+    .footGinTouDiv p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .footEndLeft p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .footEndLeft{
+        margin-top: 20px !important;
+    }
+    .footEndRight{
+        text-align: center;
+        margin-top: 20px !important;
+    }
+    .footBottomLine{
+        margin-bottom: 20px;
+    }
+    /*footer section end*/
+}
+
+@media (min-width: 99.98px) and (max-width: 298.98px) {
+    .clear{
+        height: 850px;
+    }
+    body h1{
+        font-size: 1.3rem !important;
+    }
+    .flexDivChild{
+        width: 140px !important;
+        height: auto !important;
+        left: 110px !important;
+    }
+
+    /* award winning section start */
+    .awPara1{
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 14px;
+    }
+    /* award winning section end */
+
+    /*reviews section start*/
+    .crP1{
+        font-size: 14px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .review-content{
+        width: 100% !important;
+    }
+    /*reviews section end*/
+    /* partner support section start */
+    .brandLogos div{
+        width: 33%;
+        text-align: center;
+        padding: 10px;
+    }
+    .psH1{
+        font-size: 1.4rem;
+    }
+    .psPara1{
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 14px;
+    }
+    .brandLogos img{
+        width: 50px;
+    }
+    /* partner support section end */
+
+}
